@@ -18,6 +18,10 @@ pip install pandas
 
 ## 3. 編寫並保存以下Python代碼到`portfolio_backtest.py`文件中
 
+```sh
+python portfolio_backtest.py # 執行 portfolio 回測
+```
+
 ## 4. 運行Python腳本
 
 在命令行或終端中導航到你創建的 `stock` 資料夾，並運行 `portfolio_backtest.py`：
@@ -30,6 +34,3 @@ python portfolio_backtest.py
 
 運行腳本後，你會看到年化平均回報率的計算結果顯示在命令行或終端中。這將告訴你不同投資組合的年化回報率。
 
----
-
-這些步驟將幫助你從頭到尾設置並運行投資組合回測腳本。如果在執行過程中有任何問題或需要進一步的幫助，請隨時告訴我。
